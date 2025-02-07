@@ -15,7 +15,7 @@ public class Driver1 {
  
        // Read command
         String command = scanner.nextLine(); 
- 
+   
         if (command.equals("create-account")) { 
             // Read owner name 
             String owner = scanner.nextLine(); 
