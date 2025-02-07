@@ -14,7 +14,7 @@ public class Account {
     private String accountName;
     private double balance;
     private List<Transaction> transactions;
-
+ 
     public Account(String owner, String accountName) {
         this.owner = owner;
         this.accountName = accountName;

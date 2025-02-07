@@ -30,7 +30,7 @@ public class Driver1 {
         } else {
             System.out.println("Invalid command");
         }
-
+ 
         scanner.close();
     }
 }
