@@ -11,7 +11,7 @@ public class Transaction {
     public Transaction(String type, double amount) {
         this.type = type;
         this.amount = amount;
-    }
+    } 
 
     public String getType() {
         return type;

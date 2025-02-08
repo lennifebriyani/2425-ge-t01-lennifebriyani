@@ -10,7 +10,7 @@ import java.util.Date;
  * @autor 12S23023 Lenni Febriyani
  * @autor 12S23045 Chintya Regina Uli Rajagukguk
  */
- 
+  
 public class Driver2 {
 
     public static void main(String[] _args) {
